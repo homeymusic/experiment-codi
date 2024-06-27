@@ -1,0 +1,21 @@
+[Config]
+title = Evaluating the pleasantness of musical chords (headphones required, Chrome browser, 11 minutes)
+description = This is a music listening experiment, but no musical expertise is required to take part. You will listen to different chords, and you will be asked to rate them. If you encounter a technical error, please contact us with details of your problem, and we will reimburse you for your time spent.
+window_width = 1024
+window_height = 1024
+
+[Prolific]
+recruiter = prolific
+currency = £
+wage_per_hour = 0.0
+base_payment = 1.82
+prolific_estimated_completion_minutes = 11
+show_reward = False
+
+auto_recruit = false
+
+# Set recruitment config manually in the Prolific dashboard:
+# - USA, UK
+# - no mobile or tablet
+# - yes audio
+# - prescreen participants for hearing difficulties

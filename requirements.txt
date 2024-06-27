@@ -1,0 +1,4 @@
+psynet@git+https://gitlab.com/PsyNetDev/PsyNet@849f7ae8fe786430f6127896ee0ad293cd095a87#egg=psynet
+docker
+paramiko
+sshtunnel

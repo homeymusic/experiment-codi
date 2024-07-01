@@ -33,7 +33,7 @@ logger = get_logger()
 TIMBRE = HarmonicTimbre(10, 3.0)
 
 # Framed Dyads
-CHORDS = list(map(lambda interval: [0, interval, 12], linspace(start=0, stop=15, num=1000)))
+CHORDS = list(map(lambda interval: [0, interval, 12], linspace(start=-6, stop=18, num=1600)))
 
 TRIALS_PER_PARTICIPANT = 68
 N_REPEAT_TRIALS = 68
